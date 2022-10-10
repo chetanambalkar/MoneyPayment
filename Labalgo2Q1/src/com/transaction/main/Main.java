@@ -16,7 +16,7 @@ public class Main {
 			int[] a=new int[size];
 			for (int i=0; i<size; i++) {
 				a[i]= sc.nextInt();
-	            }
+	                }
 			
 			System.out.println("Enter the total no of targets need to be acheieve");
 			int Target=sc.nextInt();
